@@ -27,5 +27,5 @@ func main(){
 
 	//printando as informções
 	fmt.Printf("O resultado da composição dos 3 núemros é: %d\n", num)
-	fmt.Printf("e séu quadrado é: %d", quad)
+	fmt.Printf("e séu quadrado é: %d\n", quad)
 }

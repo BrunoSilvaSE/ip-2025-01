@@ -15,8 +15,8 @@ func main()  {
 	med = (n1+n2+n3)/3
 	
 	if med > 6 {
-		fmt.Printf("Parabéns!!, você foi APROVADO e sua média final foi de: %.2f" , med)
+		fmt.Printf("Parabéns!!, você foi APROVADO e sua média final foi de: %.2f\n" , med)
 	}else{
-		fmt.Printf("Você foi REPROVADO, sua média final foi de: %.2f" , med)
+		fmt.Printf("Você foi REPROVADO, sua média final foi de: %.2f\n" , med)
 	}
 }

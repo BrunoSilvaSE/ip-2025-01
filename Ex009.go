@@ -12,5 +12,5 @@ func main(){
 
 	DELTA = B*B-4*A*C
 
-	fmt.Printf("O Valor de Delta é = %.2f", DELTA)
+	fmt.Printf("O Valor de Delta é = %.2f\n", DELTA)
 }

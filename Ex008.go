@@ -12,5 +12,5 @@ func main(){
 
 	valor = 628.318*r*(r+h)
 
-	fmt.Printf("O Valor do custo é = R$ %.2f", valor)
+	fmt.Printf("O Valor do custo é = R$ %.2f\n", valor)
 }

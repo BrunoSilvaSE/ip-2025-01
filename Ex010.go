@@ -12,5 +12,5 @@ func main(){
 
 	det = a*d-b*c
 
-	fmt.Printf("O valor do determinante é = %.2f", det)
+	fmt.Printf("O valor do determinante é = %.2f\n", det)
 }

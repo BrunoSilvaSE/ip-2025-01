@@ -38,5 +38,5 @@ func main(){
 
 	//output
 	fmt.Printf("Conta = %d\n", cont_id)
-	fmt.Printf("Valor da conta = %.2f", vlconta)
+	fmt.Printf("Valor da conta = %.2f\n", vlconta)
 }
