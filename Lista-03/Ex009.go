@@ -36,5 +36,4 @@ func main(){
 	fmt.Println("Total Reprovados: ", qtds[0])
 	fmt.Println("Média da classe: ", medClass)
 
-	
 }
